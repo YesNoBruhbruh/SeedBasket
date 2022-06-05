@@ -1,0 +1,7 @@
+name: SeedPouch
+version: '${project.version}'
+main: me.manraj514.seedbasket.SeedBasket
+api-version: 1.18
+commands:
+  giveseedbasket:
+    usage: /<command>
